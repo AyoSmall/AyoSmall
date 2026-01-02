@@ -1,4 +1,6 @@
-## Hi there 👋 (to be edited)
+## Hi there 👋 
+
+[![roadmap.sh](https://roadmap.sh/card/tall/69571842aec1bfa6b440d413?variant=dark)](https://roadmap.sh)
 
 <!--
 **AyoSmall/AyoSmall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![roadmap.sh](https://roadmap.sh/card/tall/69571842aec1bfa6b440d413?variant=dark)](https://roadmap.sh)
